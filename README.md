@@ -70,9 +70,7 @@ nyc-schools-analysis/
 | **notebook** | Supports the Jupyter interface; ensures compatibility with JupyterLab and local notebook execution |
 
 ---
-
-### 💾 Installation  
-
+## 💾 Installation
 To install all required dependencies, run:
 
 ```bash
@@ -88,8 +86,7 @@ Data visualizations and insights
 Final structured project ready for portfolio presentation
 
 
-🌐 Author
-**Nuran Nalci**
-
-👉 [View My GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
+## 🌐 Author
+**Nuran Nalci**  
+[GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
 
