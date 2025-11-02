@@ -1,6 +1,5 @@
-# nyc-schools-analysis
-NYC Schools Data Analysis – A Python-driven data pipeline for cleaning, transforming, and integrating NYC school datasets into a PostgreSQL database.
 # NYC Schools Data Analysis
+NYC Schools Data Analysis – A Python-driven data pipeline for cleaning, transforming, and integrating NYC school datasets into a PostgreSQL database.
 
 This project is part of the Webeet.io Data Onboarding Program.  
 It demonstrates a complete **data pipeline** — from raw datasets to analysis and database integration using **Python and PostgreSQL**.
@@ -33,10 +32,24 @@ nyc-schools-analysis/
 
 ## 🧠 Tools & Technologies
 
-- Python (pandas, matplotlib, SQLAlchemy, psycopg2)
-- PostgreSQL Database
-- Jupyter Notebook
-- Markdown Documentation
+## 🧠 Tools & Technologies  
+
+| Library | Purpose / Why It Was Used |
+
+| **pandas** | To read CSV files, manipulate datasets as DataFrames, and execute SQL queries with `pd.read_sql()` |
+| **numpy** | Provides numerical operations and supports Pandas in handling large numeric datasets |
+| **sqlalchemy** | Enables Python-to-PostgreSQL connection via `create_engine` and allows SQL queries within Python |
+| **psycopg2-binary** | PostgreSQL adapter used by SQLAlchemy to connect and execute queries |
+| **matplotlib** | Used for data visualization — creating bar charts, line charts, and other plots (`plt.bar()`, `plt.plot()`) |
+| **jupyter** | Required to run `.ipynb` notebooks and manage interactive data analysis workflows |
+| **notebook** | Supports the Jupyter interface; ensures compatibility with JupyterLab and local notebook execution |
+
+---
+
+### 💾 Installation  
+To install all required dependencies, run:  
+```bash
+pip install -r requirements.txt
 
 ---
 
