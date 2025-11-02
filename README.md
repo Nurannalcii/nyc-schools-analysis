@@ -32,27 +32,29 @@ It demonstrates a complete **data pipeline** — from raw datasets to analysis a
 ---
 
 ## 📂 Repository Structure
-'''
+
+```
 nyc-schools-analysis/
-├── incident_analysis/ # Day 1: School incident analysis (Google Sheets)
-│ ├── README.md # Findings, cleaning steps, insights
-│ └── school-safety-report.csv # Source dataset used in analysis
+├── incident_analysis/                # Day 1: School incident analysis (Google Sheets)
+│   ├── README.md                     # Findings, cleaning steps, insights
+│   └── school-safety-report.csv      # Source dataset used in analysis
 │
-├── school_directory_exploration/ # Day 2: School directory exploration
-│ └── README.md # Data cleaning, Brooklyn filter, borough summaries
+├── school_directory_exploration/     # Day 2: School directory exploration
+│   └── README.md                     # Data cleaning, Brooklyn filter, borough summaries
 │
-├── database_queries/ # Day 3: SQL exploration via Python
-│ └── README.md # Queries, borough-level insights, ELL rates, etc.
+├── database_queries/                 # Day 3: SQL exploration via Python
+│   └── README.md                     # Queries, borough-level insights, ELL rates, etc.
 │
-├── database_population/ # Day 4: SAT results cleaning & DB integration
-│ ├── README.md # Schema design + load plan
-│ ├── cleaned_sat_results.csv # Cleaned SAT dataset
-│ ├── sat_modeling.ipynb # Cleaning + append-to-database logic (Python)
-│ └── schema_notes.md # Table structure / FK notes
+├── database_population/              # Day 4: SAT results cleaning & DB integration
+│   ├── README.md                     # Schema design + load plan
+│   ├── cleaned_sat_results.csv       # Cleaned SAT dataset
+│   ├── sat_modeling.ipynb            # Cleaning + append-to-database logic (Python)
+│   └── schema_notes.md               # Table structure / FK notes
 │
-├── requirements.txt # Python environment (pandas, SQLAlchemy, etc.)
-└── README.md # Project overview (this file)
-'''
+├── requirements.txt                  # Python environment (pandas, SQLAlchemy, etc.)
+└── README.md                         # Project overview (this file)
+```
+
 ---
 
 ## 🧠 Tools & Technologies
