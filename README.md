@@ -88,8 +88,8 @@ Data visualizations and insights
 Final structured project ready for portfolio presentation
 
 
-## 🌐 Author
+🌐 Author
 **Nuran Nalci**
 
-👉[View My GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
+👉 [View My GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
 
