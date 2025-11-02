@@ -91,8 +91,6 @@ Final structured project ready for portfolio presentation
 ## 🌐 Author
 **Nuran Nalci**
 
-## 🌐 Author
-**Nuran Nalci**  
-<a href="https://github.com/Nurannalcii/nyc-schools-analysis">📎 GitHub Repository</a>
+👉 [View My GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
 
 
