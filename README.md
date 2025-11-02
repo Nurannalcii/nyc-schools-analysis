@@ -81,6 +81,7 @@ pip install -r requirements.txt
 ---
 
 🧾 Key Deliverables
+
 Clean and consistent datasets
 SQL queries executed via Python
 Data visualizations and insights
@@ -88,5 +89,7 @@ Final structured project ready for portfolio presentation
 
 
 ## 🌐 Author
-**Nuran Nalci**  
+**Nuran Nalci**
+
 📎 [GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
+
