@@ -53,7 +53,6 @@ nyc-schools-analysis/
 ├── requirements.txt # Python environment (pandas, SQLAlchemy, etc.)
 └── README.md # Project overview (this file)
 
-
 ---
 
 ## 🧠 Tools & Technologies
