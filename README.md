@@ -32,7 +32,7 @@ It demonstrates a complete **data pipeline** — from raw datasets to analysis a
 ---
 
 ## 📂 Repository Structure
-
+'''
 nyc-schools-analysis/
 ├── incident_analysis/ # Day 1: School incident analysis (Google Sheets)
 │ ├── README.md # Findings, cleaning steps, insights
@@ -52,7 +52,7 @@ nyc-schools-analysis/
 │
 ├── requirements.txt # Python environment (pandas, SQLAlchemy, etc.)
 └── README.md # Project overview (this file)
-
+'''
 ---
 
 ## 🧠 Tools & Technologies
