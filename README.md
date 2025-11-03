@@ -112,11 +112,14 @@ Final structured project ready for portfolio presentation
 ---
 ---
 
+---
+---
+---
 ### 🌟 Author
-
 **Nuran Nalci**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nurannalci)  
 💻 [GitHub Portfolio](https://github.com/Nurannalcii)
+
 
 
 
