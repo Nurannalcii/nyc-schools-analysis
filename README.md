@@ -111,11 +111,15 @@ Final structured project ready for portfolio presentation
 
 ---
 ---
+---
 
-### 🌟 Author
-**Nuran Nalci**
+<h3>🌟 Author</h3>
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/nurannalci)  
-💻 [GitHub Portfolio](https://github.com/Nurannalcii)
+<p><strong>Nuran Nalci</strong></p>
+
+<p>
+🔗 <a href="https://www.linkedin.com/in/nurannalci" target="_blank">LinkedIn Profile</a><br>
+💻 <a href="https://github.com/Nurannalcii" target="_blank">GitHub Portfolio</a>
+</p>
 
 
