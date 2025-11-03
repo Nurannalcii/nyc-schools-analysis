@@ -70,6 +70,15 @@ nyc-schools-analysis/
 | **notebook** | Supports the Jupyter interface; ensures compatibility with JupyterLab and local notebook execution |
 
 ---
+
+## 🧠 Key Insights & Findings
+- **Brooklyn** hosts the highest number of high schools, while **Manhattan** has fewer but larger institutions.
+- **ELL (English Language Learners)** data was available only for Manhattan — missing in other boroughs due to data limitations.
+- **The Bronx** reported the highest rate of incidents per 1,000 students.
+- Data inconsistencies such as invalid SAT scores and duplicated entries were successfully identified and cleaned.
+  
+---
+
 ## 💾 Installation
 To install all required dependencies, run:
 
