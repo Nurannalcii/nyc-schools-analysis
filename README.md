@@ -110,7 +110,7 @@ Final structured project ready for portfolio presentation
 
 
 ---
-👋 **Author:** Nuran Nalci  
-💼 [LinkedIn](https://www.linkedin.com/in/nurannalci) | 🧠 [Portfolio Projects](https://github.com/Nurannalcii)
+🌟 **Author:** **Nuran Nalci**  
+[LinkedIn](https://www.linkedin.com/in/nurannalci) | 🧠 [Portfolio Projects](https://github.com/Nurannalcii)
 
 
