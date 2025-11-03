@@ -79,6 +79,20 @@ nyc-schools-analysis/
   
 ---
 
+## 🧩 Business Impact
+The analysis framework built here can help education departments:
+- Identify boroughs requiring safety improvements
+- Track demographic disparities in school accessibility
+- Maintain cleaner and standardized data across multiple school datasets
+
+---
+
+## 🔜 Next Steps
+- Add interactive dashboard using **Tableau** or **Looker Studio**
+- Automate data validation tests for key fields (e.g., unique school IDs)
+- Extend dataset with updated NYC data for trend comparison
+
+
 ## 💾 Installation
 To install all required dependencies, run:
 
@@ -95,7 +109,8 @@ Data visualizations and insights
 Final structured project ready for portfolio presentation
 
 
-## 🌐 Author
-**Nuran Nalci**  
-[GitHub Repository](https://github.com/Nurannalcii/nyc-schools-analysis)
+---
+👋 **Author:** Nuran Nalci  
+💼 [LinkedIn](https://www.linkedin.com/in/nurannalci) | 🧠 [Portfolio Projects](https://github.com/Nurannalcii)
+
 
