@@ -1,4 +1,4 @@
-# 🏫 NYC Schools Data Analysis
+# NYC Schools Data Analysis
 
 **NYC Schools Data Analysis** – A Python-driven data pipeline for cleaning, transforming, and integrating NYC school datasets into a PostgreSQL database.
 
@@ -7,7 +7,7 @@ It demonstrates a complete **data pipeline** — from raw datasets to analysis a
 
 ---
 
-## 📅 Project Structure Overview
+##  Project Structure Overview
 
 | Task | Folder | Description |
 |------|---------|-------------|
@@ -17,12 +17,12 @@ It demonstrates a complete **data pipeline** — from raw datasets to analysis a
 | **Day 4** | `database_population/` | SAT results integration and database population |
 | **Day 5** | — | Final wrap-up and GitHub publishing |
 
-✅ **All stages are completed** — from raw data to structured analysis and database integration.  
-📊 This repository represents a full data pipeline project using Python, SQL, and PostgreSQL.
+ **All stages are completed** — from raw data to structured analysis and database integration.  
+ This repository represents a full data pipeline project using Python, SQL, and PostgreSQL.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 - Cleaned, analyzed, and integrated NYC school datasets using Python and SQL  
 - Built clear and consistent data structures aligned with PostgreSQL schema  
@@ -31,7 +31,7 @@ It demonstrates a complete **data pipeline** — from raw datasets to analysis a
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 nyc-schools-analysis/
@@ -57,7 +57,7 @@ nyc-schools-analysis/
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 
 | Library | Purpose / Why It Was Used |
 |----------|----------------------------|
@@ -71,7 +71,7 @@ nyc-schools-analysis/
 
 ---
 
-## 🧠 Key Insights & Findings
+## Key Insights & Findings
 - **Brooklyn** hosts the highest number of high schools, while **Manhattan** has fewer but larger institutions.
 - **ELL (English Language Learners)** data was available only for Manhattan — missing in other boroughs due to data limitations.
 - **The Bronx** reported the highest rate of incidents per 1,000 students.
@@ -79,7 +79,7 @@ nyc-schools-analysis/
   
 ---
 
-## 🧩 Business Impact
+##  Business Impact
 The analysis framework built here can help education departments:
 - Identify boroughs requiring safety improvements
 - Track demographic disparities in school accessibility
@@ -87,13 +87,13 @@ The analysis framework built here can help education departments:
 
 ---
 
-## 🔜 Next Steps
+## Next Steps
 - Add interactive dashboard using **Tableau** or **Looker Studio**
 - Automate data validation tests for key fields (e.g., unique school IDs)
 - Extend dataset with updated NYC data for trend comparison
 
 
-## 💾 Installation
+## Installation
 To install all required dependencies, run:
 
 ```bash
